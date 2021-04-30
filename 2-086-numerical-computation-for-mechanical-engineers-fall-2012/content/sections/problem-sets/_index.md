@@ -1,0 +1,25 @@
+---
+course_id: 2-086-numerical-computation-for-mechanical-engineers-fall-2012
+layout: course_section
+menu:
+  leftnav:
+    identifier: 39d5c01034bbc7d4bd0c427acf3354cd
+    name: Problem Sets
+    weight: 50
+title: Problem Sets
+type: course
+uid: 39d5c01034bbc7d4bd0c427acf3354cd
+
+---
+
+This page presents the problem set assignments, along with supporting MATLAB® datafiles and demonstration videos. Solutions to the problem sets are not available.
+
+| UNITS | PROBLEM SETS (NO SOLUTIONS) | SUPPORTING FILES | SUPPORTING VIDEOS |
+| --- | --- | --- | --- |
+| Unit I. (Numerical) Calculus; Elementary Programming Concepts | [PSet 1 (PDF)]({{< baseurl >}}/sections/problem-sets/mit2_086f12_pset1) | [Datafile (MAT)](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/021cf7c33f25e8c5bb52947f74648bc9_PSet1.mat.mat) | [The Macro-Me-Robot^1](#?w=535) {{< br >}}{{< br >}} Flash and JavaScript are required for this feature. {{< br >}}{{< br >}}    {{< br >}}{{< br >}} The Macro-Me-Robot^1 {{< br >}}{{< br >}} Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of James Penn. Used with permission.) {{< br >}}{{< br >}} [\> Download from Internet Archive (MP4 - 4MB)](http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit1_robot_300k.mp4) {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
+| Unit II. Monte Carlo Methods | [PSet 2 (PDF - 2.7MB)]({{< baseurl >}}/sections/problem-sets/mit2_086f12_pset2) | [Datafiles (ZIP)](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/e7ab2d3f164fd2b6a21c26eb6d49874f_PS2_Matlab_files.zip) (This file contains: 1 .m file and 1 .mat file.) | &nbsp; |
+| Unit III. Linear Algebra 1: Matrices and Least Squares; Regression | [Pset 3 (PDF)]({{< baseurl >}}/sections/problem-sets/mit2_086f12_pset3) | [Datafile (MAT)](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/a8f194f582f19ed5a7b985db9b32e554_friction_data_PSet3.mat) | [The Macro-Me-Robot: Friction Test](#?w=535) {{< br >}}{{< br >}} Flash and JavaScript are required for this feature. {{< br >}}{{< br >}}    {{< br >}}{{< br >}} The Macro-Me-Robot: Friction Test {{< br >}}{{< br >}} Video of a 2.086 robot attempting to push a load on two different surfaces. (Courtesy of James Penn. Used with permission.) {{< br >}}{{< br >}} [\> Download from Internet Archive (MP4 - 5MB)](http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit3_friction_300k.mp4) {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
+| Unit IV. Ordinary Differential Equations | [Pset 4 (PDF)]({{< baseurl >}}/sections/problem-sets/mit2_086f12_pset4) |  {{< br >}}{{< br >}} [Datafiles (ZIP)](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/497abd7f8059c3951d2014db5ff0be2b_Pset_4_datafiles.zip) (This file contains: 2 .m files and 2 .mat files.) {{< br >}}{{< br >}} Script for exact analytical solution of Questions 5 (ii) and 9 (ii) ([M](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/9c464022e134798e3f667680951a56d8_Y_exact_theta_exact.m)) {{< br >}}{{< br >}}  | [Macro-Me-Suspension](#?w=535)   {{< br >}}{{< br >}} Flash and JavaScript are required for this feature. {{< br >}}{{< br >}}    {{< br >}}{{< br >}} Macro-Me-Suspension {{< br >}}{{< br >}} Video of a 2.086 robot driving over a small bump at three different velocities. (Courtesy of James Penn. Used with permission.) {{< br >}}{{< br >}} [\> Download from Internet Archive (MP4 - 2MB)](http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit4_susp_300k.mp4) {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
+| Unit V. Linear Algebra 2: Linear Systems || {{< td-colspan 3 >}}No problem sets for this unit{{< /td-colspan >}} |||
+| Unit VI. Linear Algebra 3: Eigenvalue Problems || {{< td-colspan 3 >}}No problem sets for this unit{{< /td-colspan >}} |||
+| Unit VII. Nonlinear Problems | [Pset 5 (PDF)]({{< baseurl >}}/sections/problem-sets/mit2_086f12_pset5) |  {{< br >}}{{< br >}} [Datafiles (ZIP)](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/749dea8cd8c5d34546a6ee6a593637cd_Pset5_datafiles.zip) (This file contains: 2 .m files and 1 .mat file.) {{< br >}}{{< br >}} Template to help with plotting in Questions 5 and 6 ([M](/coursemedia/2-086-numerical-computation-for-mechanical-engineers-fall-2012/06c99daa049be1f2e6b662f1ceea9eee_Pset_5_Q5_6_plotting_code.m)) {{< br >}}{{< br >}}  | [Robot Arm Demo](#?w=535)   {{< br >}}{{< br >}} Flash and JavaScript are required for this feature. {{< br >}}{{< br >}}    {{< br >}}{{< br >}} Robot Arm Demo {{< br >}}{{< br >}} Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James Penn. Used with permission.) {{< br >}}{{< br >}} [\> Download from Internet Archive (MP4 - 2MB)](http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit7_arm_300k.mp4) {{< br >}}{{< br >}}  {{< br >}}{{< br >}}
